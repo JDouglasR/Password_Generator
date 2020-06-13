@@ -7,4 +7,4 @@ The purpose of this homework assignment was to create an application that genera
 https://jdouglasr.github.io/Password_Generator/
 
 ### __Image of 'index.html'__
-![index.html](/Assets/pg-index-page.png)
+![index.html](/assets/pg-index-page.png)
